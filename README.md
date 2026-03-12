@@ -116,9 +116,3 @@ Ideas for further work:
   - Wrap the notebook logic in a Python module or API.  
   - Build a simple web UI where a user can submit or select a profile and see recommended buddies plus explanations.
 
-### 7. License & Citation
-
-If you use this project or build on it in academic or industrial work, please cite it as:
-
-> Explainable Travel Buddy Recommender System (Jupyter notebook implementation). Unpublished project.
-
